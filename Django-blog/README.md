@@ -57,7 +57,7 @@ urlpatterns = [
 
 7. 运行python manage.py runserver，然后在浏览器中输入127.0.0.1:8000/Blog/helloDjango.html，应该能看到helloDjango。
 
-下面来设置数据库：
+## 下面来设置数据库：
 
 数据库选型：mysql
 
